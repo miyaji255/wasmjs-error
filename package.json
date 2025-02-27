@@ -1,0 +1,11 @@
+{
+  "name": "wasmjs-error",
+  "private": true,
+  "type": "module",
+  "scripts": {},
+  "devDependencies": {
+    "@cloudflare/vitest-pool-workers": "^0.7.3",
+    "vitest": "^3.0.7",
+    "wrangler": "^3.110.0"
+  }
+}
